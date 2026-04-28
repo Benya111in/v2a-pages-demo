@@ -1,0 +1,1 @@
+import{Q as t,c as i,R as r,j as e,a as s,b as c,P as a}from"./publicReview-COMGxkhP.js";const n=new t({defaultOptions:{queries:{staleTime:15e3,refetchOnWindowFocus:!1},mutations:{retry:1}}}),o=i();document.body.className="public-review-page";r.createRoot(document.getElementById("root")).render(e.jsx(s.StrictMode,{children:e.jsx(c,{client:n,children:e.jsx(a,{service:o})})}));
